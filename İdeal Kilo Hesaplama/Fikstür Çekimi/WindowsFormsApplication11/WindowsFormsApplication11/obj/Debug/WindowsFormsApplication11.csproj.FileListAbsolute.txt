@@ -1,0 +1,38 @@
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Documents and Settings\Emrah\Belgelerim\Visual Studio 2008\Projects\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\x\Desktop\C# Projelerim\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\iau\Desktop\Emrah Yeşilırmak 12-TB 111\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojAssemblyReference.cache
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.cache
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.CoreCompileInputs.cache
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+E:\Fikstür Çekimi\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
